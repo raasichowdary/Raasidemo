@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "Adfraasidemo"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
